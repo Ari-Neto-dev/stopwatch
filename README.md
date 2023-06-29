@@ -1,4 +1,4 @@
-# Stop Watch
+# ⏱️ Stop Watch
 
 ## :test_tube: Technologies
 
